@@ -1,7 +1,7 @@
 %Example usage of Light and Heat functions
 %Generate 3 plots for 532 nm light:
 %Figure 1 - Intensity relative to maximum intensity (log scale) from a 62
-%nm diameter, .22 NA fiber
+%micron diameter, .22 NA fiber
 %Figure 2 - Steady state temperature change for the same fiber
 %Figure 3 - Time course of temperature change for the same fiber during and
 %after 60 seconds of illumination
