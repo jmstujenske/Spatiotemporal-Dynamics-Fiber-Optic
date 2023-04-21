@@ -4,4 +4,4 @@
 If you use this, please cite the originating paper:
 Stujenske JM, Spellman T, Gordon JA. (2015). Modeling the Spatiotemporal Dynamics of Light and Heat Propagation for In Vivo Optogenetics. Cell Reports 12, p525-534.
 
-https://www.cell.com/cell-reports/fulltext/S2211-1247(15)00648-8
+https://doi.org/10.1016/j.celrep.2015.06.036
